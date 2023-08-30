@@ -1,10 +1,10 @@
 """Constants for the TTLock integration."""
 
-DOMAIN = "ttlock"
+DOMAIN = "SCEINER"
 TT_API = "api"
 TT_LOCKS = "locks"
 
-OAUTH2_TOKEN = "https://euapi.ttlock.com/oauth2/token"
+OAUTH2_TOKEN = "https://euopen.sciener.com/oauth2/token"
 CONF_WEBHOOK_URL = "webhook_url"
 CONF_WEBHOOK_STATUS = "webhook_status"
 
